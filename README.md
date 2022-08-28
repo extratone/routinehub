@@ -1,6 +1,6 @@
 # David Blue's RoutineHub Library
 
-![Banner](https://github.com/extratone/routinehub/raw/main/banner.png)
+![Iconround](https://github.com/extratone/routinehub/raw/main/brand/iconround.png)
 
 All the Siri Shortcuts I've shared as [**a proud member of RoutineHub**](https://routinehub.co/user/blue) as of `08212022-053343`.
 
